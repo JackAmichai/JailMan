@@ -1,0 +1,14 @@
+{
+  "allowed_tools": [
+    "search_engine",
+    "calculator",
+    "weather_api",
+    "translation_service"
+  ],
+  "restricted_tools": [
+    "port_scanner",
+    "network_mapper",
+    "exploit_db",
+    "credential_dump"
+  ]
+}
