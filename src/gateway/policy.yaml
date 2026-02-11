@@ -1,0 +1,7 @@
+rules:
+  - tool: "remote_shell"
+    role: "guest"
+    action: "BLOCK"
+  - tool: "nmap_scan"
+    role: "guest"
+    action: "BLOCK"
